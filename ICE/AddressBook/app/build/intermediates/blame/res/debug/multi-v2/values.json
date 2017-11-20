@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\AnkitaW\\Downloads\\MobileAppDevelopment-master\\ICE\\AddressBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AnkitaW\\Downloads\\MobileAppDevelopment-master\\ICE\\AddressBook\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\AnkitaW\\Downloads\\MobileAppDevelopment-master\\ICE\\AddressBook\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,5,3,15,8,17,7,12,4,11,19,13,16,14,9,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "212,159,56,589,302,682,256,466,106,428,800,507,636,547,352,764",
+                        "endColumns": "43,52,49,46,49,81,45,40,52,37,33,39,45,41,74,35",
+                        "endOffsets": "251,207,101,631,347,759,297,502,154,461,829,542,677,584,422,795"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,213,266,316,363,413,495,541,582,635,673,707,747,793,835,910",
+                        "endColumns": "43,52,49,46,49,81,45,40,52,37,33,39,45,41,74,35",
+                        "endOffsets": "208,261,311,358,408,490,536,577,630,668,702,742,788,830,905,941"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\AnkitaW\\Downloads\\MobileAppDevelopment-master\\ICE\\AddressBook\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "20,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "946,1237",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1232,1392"
+                    }
+                }
+            ]
+        }
+    ]
+}
